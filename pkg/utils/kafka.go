@@ -2,7 +2,7 @@ package utils
 
 import (
 	"context"
-	"gokafka/config"
+	"lebrancconvas/gokafka/config"
 
 	"github.com/segmentio/kafka-go"
 )
